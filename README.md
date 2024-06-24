@@ -30,6 +30,10 @@ bun dev
    - Show logged-in user profile details.
    - Allow users to edit and update their profile details.
    - Provide an option to permanently remove the account.
+  
+5. **Connect wallet metamask**:
+   - connect to metamask wallet (rainbow-ki)
+   - show coins in wallet
 
 5. **Technologies Stack**:
    - Next.js ,tailwind css , redux-toolkit , frammer-motion etc..
